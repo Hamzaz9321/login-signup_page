@@ -1,0 +1,7 @@
+<!-- res/drawable/ic_user_scaled.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="30dp"
+        android:height="30dp"
+        android:drawable="@drawable/pass1" />
+</layer-list>
